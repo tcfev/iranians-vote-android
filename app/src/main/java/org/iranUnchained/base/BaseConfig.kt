@@ -22,7 +22,7 @@ object BaseConfig {
 
     const val REGISTRATION_TYPE = "Simple Registration"
 
-    const val PRIVACY_POLICY_URL = "https://russia2024.net/privacy-policy.html"
+    const val PRIVACY_POLICY_URL = "https://www.iranians.vote/privacy-policy.html"
 }
 
 //TestNet
@@ -47,6 +47,6 @@ object TestNet {
 
     const val REGISTRATION_TYPE = "Simple Registration"
 
-    const val PRIVACY_POLICY_URL = "https://russia2024.net/privacy-policy.html"
+    const val PRIVACY_POLICY_URL = "https://www.iranians.vote/privacy-policy.html"
 
 }
